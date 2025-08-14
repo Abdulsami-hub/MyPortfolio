@@ -1,0 +1,17 @@
+{
+  "name": "Abdul Sami Fazilyar - Full-Stack Developer Portfolio",
+  "short_name": "Abdul Sami Portfolio",
+  "description": "Full-Stack Developer with expertise in React.js, Laravel, PHP, and modern web technologies",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#00D4FF",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
